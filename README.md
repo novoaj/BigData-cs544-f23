@@ -6,10 +6,9 @@ Class website: https://tyler.caraza-harter.com/cs544/s23/schedule.html
 
 All projects were ran from a Google Cloud VM using Ubuntu 22.04 LTS
 Technologies Used:
-- Python
-- gRPC
+- Python3
+- gRPC 1.58.0
 - Docker 24.0.5
-- Hadoop
-- Spark
-- Cassandra
-- Java
+- Hadoop 3.3.6
+- Spark 3.5.0
+- Cassandra 4.1.3

@@ -8,7 +8,7 @@ All projects were ran from a Google Cloud VM using Ubuntu 22.04 LTS
 Technologies Used:
 - Python
 - gRPC
-- Docker
+- Docker 24.0.5
 - Hadoop
 - Spark
 - Cassandra

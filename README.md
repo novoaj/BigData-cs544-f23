@@ -1,4 +1,4 @@
-#Intro to Big Data Systems
+## Intro to Big Data Systems
 
 Class Repository: https://github.com/cs544-wisc/f23/tree/main
 \n

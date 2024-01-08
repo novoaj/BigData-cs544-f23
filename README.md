@@ -4,7 +4,8 @@ Class Repository: https://github.com/cs544-wisc/f23/tree/main
 
 Class website: https://tyler.caraza-harter.com/cs544/s23/schedule.html
 
-All projects were ran from a Google Cloud VM using Ubuntu 22.04 LTS
+All projects were ran from a Google Cloud VM using Ubuntu 22.04 LTS.
+
 Technologies Used:
 - Python3
 - gRPC 1.58.0

@@ -8,4 +8,4 @@ This project was for exploring HDFS as a storage solution. Specifically, explori
   - HDFS
   - PyArrow
 
-Deployed a small HDFS cluster using Docker and Docker Compose on a GCP virtual machine. Wrote python code to interact with HDFS via the webHDFS  API to upload and read files and PyArrow is used for reading and analyzing HDFS files. Challenges include managing replication setting to balance space efficiency and fault tolerance, and implementing recovery strategies for partially lost data in case of node failures.  
+Deployed a small HDFS cluster using Docker and Docker Compose on a GCP virtual machine. Wrote python code to interact with HDFS via the webHDFS  API to upload and read files and PyArrow is used for reading and analyzing HDFS files. Challenges include managing replication setting to balance space efficiency and fault tolerance. 

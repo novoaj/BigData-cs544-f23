@@ -8,4 +8,4 @@ This project involved using Cassandra and CQL to perform analysis of weather dat
   - Docker
   - Docker Compose
 
-Docker and Docker compose was used to set up our Cassandra nodes and manage our cluster. Cassandra was used for storing our data which we performed analysis on using Spark/SparkSQL.
+Docker and Docker compose was used to set up our Cassandra nodes and manage our cluster. Cassandra was used for storing our data which we performed analysis on using Spark/SparkSQL. gRPC was implemented to communicate with our database. 
